@@ -1,4 +1,6 @@
-- Objtivo:
+# Conexao-Banco-de-Dados-Atividade-Pontuada
+
+### Objetivo:
 Criar um CRUD para um usuário:
 Create (criar usuário)
 Read (listar todos usuários / pesquisar um usuário)
@@ -15,12 +17,12 @@ No arquivo principal, crie um menu onde o seja possível escolher a ação desej
 
 Informe a opção desejada:
 
-
 Os dados precisam ser salvos no banco de dados.
 O menu será exibido até que o usuário escolha a opção 0.
-Tecnologias:
-ORM: SQLAlchemy
-Banco de dados: MySQL
-Containerização: Docker
-Orquestração de contêineres: Docker Compose
-Versionamento: Git
+
+### Tecnologias:
+- ORM: SQLAlchemy
+- Banco de dados: MySQL
+- Containerização: Docker
+- Orquestração de contêineres: Docker Compose
+- Versionamento: Git
