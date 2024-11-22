@@ -1,4 +1,4 @@
-Obejtivo:
+- Objtivo:
 Criar um CRUD para um usuário:
 Create (criar usuário)
 Read (listar todos usuários / pesquisar um usuário)
